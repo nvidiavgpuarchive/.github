@@ -8,7 +8,7 @@ This project exists as a hobbyist effort to **preserve, archive, and categorize 
 - Help enthusiasts and independent researchers keep older hardware usable.
 - Provide a public record of drivers for platforms that are no longer supported.
 
-## Citation 
+### Citation 
 
 ```bibtext
 @misc{nvidiavgpuarchive,
@@ -20,7 +20,7 @@ This project exists as a hobbyist effort to **preserve, archive, and categorize 
 }
 ```
 
-## Legal Notice
+### Legal Notice
 
 This project is not affiliated with or endorsed by NVIDIA.  
 It is provided strictly for archival and educational purposes.
